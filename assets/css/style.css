@@ -678,7 +678,17 @@ main {
 
 .modal-title { margin-bottom: 4px; }
 
-.modal-content time {
+.modal-content time {   <!-- <li class="select-item">
+  <button data-select-item>Web design</button>
+</li>
+
+<li class="select-item">
+  <button data-select-item>Applications</button>
+</li>
+
+<li class="select-item">
+  <button data-select-item>Web development</button>
+</li> -->
   font-size: var(--fs-6);
   color: var(--light-gray-70);
   font-weight: var(--fw-300);
